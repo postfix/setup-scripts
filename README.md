@@ -16,7 +16,7 @@ A collection of scripts for automating software installation and update
 
 ### `onnx_install.sh`
 
-This script installs the ONNX Runtime. It downloads 1.19.2 version by default the specified version, (or latest if `--latest` is used), installs it to `/opt/onnxruntime` by default.  It sets up the necessary environment variables.
+This script installs the ONNX Runtime (https://onnxruntime.ai/). It downloads 1.19.2 version by default, the specified version, (or latest if `--latest` is used), installs it to `/opt/onnxruntime` by default.  It sets up the necessary environment variables.
 
 **`onnx_install.sh` Usage:**
 
